@@ -1,0 +1,16 @@
+{
+  "name": "neighborly-historian-shoe-uv5bj",
+  "productName": "neighborly-historian-shoe-uv5bj",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "makalin",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "30.0.8"
+  }
+}
