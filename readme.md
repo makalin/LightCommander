@@ -20,7 +20,7 @@ LightCommander is a simple file manager inspired by Norton and Total Commander, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LightCommander.git
+   git clone https://github.com/makalin/LightCommander.git
    cd LightCommander
    ```
 2. Install dependencies:
